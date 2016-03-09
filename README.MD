@@ -5,6 +5,5 @@ Here you can find all the defined TYPO3 icons with their name to use in the back
 Example:
 
 ```
-<f:be.buttons.icon uri="{f:uri.action('new')}" icon="actions-edit-add
-"/>
+<f:be.buttons.icon uri="{f:uri.action('new')}" icon="actions-edit-add"/>
 ```
